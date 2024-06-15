@@ -1,0 +1,9 @@
+# ninja log v5
+1	439	1718351433319798603	CMakeFiles/doonoon.dir/CMap.cpp.o	47368183f123529f
+661	690	1718351433574343529	doonoon	796d3696a17a5538
+0	440	1718351433320681396	CMakeFiles/doonoon.dir/main.cpp.o	7548012ab7bc21e3
+429	660	1718351433542467626	CMakeFiles/doonoon.dir/CGates.cpp.o	55423d558486df39
+0	427	1718351433307578535	CMakeFiles/doonoon.dir/CScene.cpp.o	94cb55f7b0835afe
+1	457	1718351433339288228	CMakeFiles/doonoon.dir/CItems.cpp.o	a8ec795ea322a8e1
+1	431	1718351433313108047	CMakeFiles/doonoon.dir/CMapBuilder.cpp.o	b34c24c39115f45a
+0	471	1718351433352949050	CMakeFiles/doonoon.dir/CSnake.cpp.o	6e05923d984dd46

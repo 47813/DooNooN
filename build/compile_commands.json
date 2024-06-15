@@ -1,0 +1,50 @@
+[
+{
+  "directory": "/Users/dongeonlee/doonoon-main/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++    -Wall -Wextra -Wno-error=missing-braces -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/doonoon.dir/main.cpp.o -c /Users/dongeonlee/doonoon-main/main.cpp",
+  "file": "/Users/dongeonlee/doonoon-main/main.cpp",
+  "output": "CMakeFiles/doonoon.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/dongeonlee/doonoon-main/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++    -Wall -Wextra -Wno-error=missing-braces -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/doonoon.dir/CScene.cpp.o -c /Users/dongeonlee/doonoon-main/CScene.cpp",
+  "file": "/Users/dongeonlee/doonoon-main/CScene.cpp",
+  "output": "CMakeFiles/doonoon.dir/CScene.cpp.o"
+},
+{
+  "directory": "/Users/dongeonlee/doonoon-main/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++    -Wall -Wextra -Wno-error=missing-braces -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/doonoon.dir/CSnake.cpp.o -c /Users/dongeonlee/doonoon-main/CSnake.cpp",
+  "file": "/Users/dongeonlee/doonoon-main/CSnake.cpp",
+  "output": "CMakeFiles/doonoon.dir/CSnake.cpp.o"
+},
+{
+  "directory": "/Users/dongeonlee/doonoon-main/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++    -Wall -Wextra -Wno-error=missing-braces -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/doonoon.dir/CMap.cpp.o -c /Users/dongeonlee/doonoon-main/CMap.cpp",
+  "file": "/Users/dongeonlee/doonoon-main/CMap.cpp",
+  "output": "CMakeFiles/doonoon.dir/CMap.cpp.o"
+},
+{
+  "directory": "/Users/dongeonlee/doonoon-main/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++    -Wall -Wextra -Wno-error=missing-braces -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/doonoon.dir/CMapBuilder.cpp.o -c /Users/dongeonlee/doonoon-main/CMapBuilder.cpp",
+  "file": "/Users/dongeonlee/doonoon-main/CMapBuilder.cpp",
+  "output": "CMakeFiles/doonoon.dir/CMapBuilder.cpp.o"
+},
+{
+  "directory": "/Users/dongeonlee/doonoon-main/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++    -Wall -Wextra -Wno-error=missing-braces -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/doonoon.dir/CItems.cpp.o -c /Users/dongeonlee/doonoon-main/CItems.cpp",
+  "file": "/Users/dongeonlee/doonoon-main/CItems.cpp",
+  "output": "CMakeFiles/doonoon.dir/CItems.cpp.o"
+},
+{
+  "directory": "/Users/dongeonlee/doonoon-main/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++    -Wall -Wextra -Wno-error=missing-braces -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/doonoon.dir/CGates.cpp.o -c /Users/dongeonlee/doonoon-main/CGates.cpp",
+  "file": "/Users/dongeonlee/doonoon-main/CGates.cpp",
+  "output": "CMakeFiles/doonoon.dir/CGates.cpp.o"
+},
+{
+  "directory": "/Users/dongeonlee/doonoon-main/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++    -Wall -Wextra -Wno-error=missing-braces -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/doonoon.dir/Mission.cpp.o -c /Users/dongeonlee/doonoon-main/Mission.cpp",
+  "file": "/Users/dongeonlee/doonoon-main/Mission.cpp",
+  "output": "CMakeFiles/doonoon.dir/Mission.cpp.o"
+}
+]
